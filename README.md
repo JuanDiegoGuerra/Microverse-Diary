@@ -1,6 +1,6 @@
-<h1>Microverse Friends' Diary</h1>
+<center><h1>Microverse Friends' Diary</h1>
 <img src ="./img/MicroverseFriends.png" width="80%">
-<a name="readme-top"></a>
+<a name="readme-top"></a></center>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -19,9 +19,8 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors ](#-author-)
+  - [👥 Authors of the Diary ](#-author-)
   - [🔭 Future Features ](#-future-features-)
-  - [Walkthrough ](#walkthrough-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
